@@ -1,0 +1,2 @@
+/Users/anon/Documents/STYLY/MITRH_Sample1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/CMakeLists.txt
+/Users/anon/Documents/STYLY/MITRH_Sample1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/CMakeLists.txt
